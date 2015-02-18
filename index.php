@@ -1,6 +1,6 @@
 <?php
 
-require_once("GoogleUrlShortner.php");
+require_once("GoogleUrlShortener.php");
 
 /**
  * You can get instance without ApiKey but An API key is highly recommended
